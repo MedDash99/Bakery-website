@@ -1,0 +1,63 @@
+/* Custom Styles */
+body {
+    font-family: 'Open Sans', sans-serif;
+    background-color:lavender;
+  }
+  
+  .nav-wrapper {
+    padding: 0 20px;
+  }
+  
+  .section {
+    padding: 50px 0;
+  }
+  
+  #home h2 {
+    font-size: 3.5rem;
+    margin-top: 50px;
+  }
+  
+  #home img {
+    margin-top: 20px;
+  }
+  
+  .card-image img {
+    height: 200px;
+    object-fit: cover;
+  }
+
+
+  .responsive-img{
+    height: 100vh; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    border-radius: 15px;
+    
+}
+
+#title-img{
+  aspect-ratio: 16 / 9;
+  border-radius: 25px;
+}
+  
+/* Styling for Contact Section */
+#contact {
+  padding: 50px 0;
+}
+
+#contact .container h5 {
+  font-size: 1.2rem;
+  margin-top: 20px;
+}
+
+#contact-form .input-field {
+  margin-bottom: 20px;
+}
+
+#contact .center {
+  margin-top: 20px;
+}
+
+  
